@@ -1,0 +1,16 @@
+.customOverlay {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.customModal {
+    background: #5f40cf !important;
+    border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+    .customModal {
+        background: #5f40cf !important;
+        border-radius: 10px;
+        width: 500px !important;
+    }
+  }
